@@ -12,4 +12,5 @@ Power BI	Data visualization, dashboard creation
 DAX	Custom calculations, KPIs, and metrics
 Excel / CSV	Data source format (assumed as raw input data)
 Power Query	Data cleaning, transformation & loading (ETL)
+screenshorts:- https://github.com/diya20004/coffee-sales-dta/blob/main/coffee%20sales%20data.png
 
